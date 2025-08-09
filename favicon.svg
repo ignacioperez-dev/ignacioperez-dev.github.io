@@ -1,0 +1,10 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0" y1="0" x2="128" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0ea5ea"/>
+      <stop offset="1" stop-color="#0bd1d1"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="url(#grad1)"/>
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-family="Noto Sans, Arial, sans-serif" font-size="60" font-weight="bold" fill="#fff">IP</text>
+</svg>
